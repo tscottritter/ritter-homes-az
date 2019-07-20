@@ -6,7 +6,7 @@ import './Footer.css'
 
   return (
     <div className="Footer">
-      <p>&copy;{ now.getFullYear() } | <a href="https://www.linkedin.com/in/tyler-s-ritter/" target="_blank" noopener="true" noreferrer="true">TR</a>
+      <p>&copy;{ now.getFullYear() } | <a href="https://www.linkedin.com/in/tyler-s-ritter/" target="_blank" rel="noopener noreferrer">TR</a>
       </p>
     </div>
   )
