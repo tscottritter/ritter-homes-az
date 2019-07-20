@@ -27,8 +27,8 @@ export default () => (
                     <NavLink className="nav-link" to="/contact">Contact Me</NavLink>
                 </li>
             </ul>
-            <form class="form-inline my-2 my-lg-0">
-                <NavLink class="btn btn-primary my-2 my-sm-0" to="/analysis">Free Market Analysis</NavLink>
+            <form className="form-inline my-2 my-lg-0">
+                <NavLink className="btn btn-primary my-2 my-sm-0" to="/analysis">Free Market Analysis</NavLink>
             </form>
         </div>
     </nav>

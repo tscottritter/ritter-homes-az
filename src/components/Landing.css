@@ -1,0 +1,17 @@
+.Landing img {
+    width: 100%;
+}
+
+.Landing h1 {
+    position: absolute;
+    right: calc(50% - 200px);
+}
+
+.row img {
+    height: 200px;
+    width: auto;
+}
+
+.landing-text {
+    text-align: left;
+}

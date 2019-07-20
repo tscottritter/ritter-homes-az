@@ -1,9 +1,10 @@
 import React from 'react';
+import './Header.css';
 
 export default () => (
   <div className="Header clearfix">
-    <img className="headshot" src="/images/headshot.jpg" />
-    <img className="logo" src="/images/jf_logo.jpg" />
+    <img className="headshot" src="/images/headshot.jpg" alt="Scott Ritter profesisonal photo" />
+    <img className="logo" src="/images/jf_logo.jpg" alt="J and F Associates logo"/>
     <div className="banner-headlines">
       <h1>Frederick Scott Ritter, Realtor&reg;</h1>
       <h3>Your trusted real estate expert</h3>
