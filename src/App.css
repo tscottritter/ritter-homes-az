@@ -37,9 +37,13 @@ h3 {
 .banner-text {
     text-align: right;
     float: right;
-    margin-right: 80px;
+    margin-right: 90px;
 }
 
 h5 {
     margin-top: 30px;
+}
+
+#navbarSupportedContent {
+    text-align: center;
 }
