@@ -1,0 +1,12 @@
+form {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.form-group {
+    text-align: left;
+}
+
+input {
+    max-width: 300px;
+}
