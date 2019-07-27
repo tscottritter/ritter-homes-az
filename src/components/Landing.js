@@ -4,7 +4,7 @@ import './Landing.css';
 export default () => (
   <div className="Landing">
     <h1>Results that move you!</h1>
-    <img src='/images/landing.jpg' alt="photo of asphalt road leading to mountains, by Ganapathy Kumar from Unsplash" />
+    <img src='/images/landing.jpg' alt="asphalt road leading to mountains, by Ganapathy Kumar from Unsplash" />
     <div className="row">
       <div className="col-lg-6 landing-text">
         <h5>Scott's advice to sellers:</h5>

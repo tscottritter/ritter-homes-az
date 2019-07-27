@@ -1,0 +1,60 @@
+/* .Contact img {
+    height: 250px;
+    width: 220px;
+    
+} */
+
+.flip-card {
+    background-color: transparent;
+    width: 220px;
+    height: 250px;
+    perspective: 1000px;
+    display: inline-block;
+    margin: 0 15px;
+}
+
+.flip-card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.8s;
+    transform-style: preserve-3d;
+}
+
+.flip-card:hover .flip-card-inner {
+    transform: rotateY(180deg);
+}
+
+.flip-card-front, .flip-card-back-green, .flip-card-back-blue {
+    position: absolute;
+    width: 220px;
+    height: 220px;
+    border-radius: 25px;
+    backface-visibility: hidden;
+}
+
+.flip-card-back-blue {
+    margin-top: 15px;
+    background-color: #146df7;
+    color: white;
+    transform: rotateY(180deg);
+    padding-top: 80px;
+}
+
+.flip-card-back-green {
+    margin-top: 15px;
+    background-color: #00d24e;
+    color: white;
+    transform: rotateY(180deg);
+    padding-top: 80px;
+}
+
+.Contact a {
+    color: white;
+}
+
+.Contact a:hover {
+    color: white;
+    text-decoration: none;
+}

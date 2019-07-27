@@ -40,7 +40,7 @@ class Reviews extends Component {
             { reviewsList || "Loading reviews..." }
         </div>
         <a className="btn btn-primary" href="https://www.zillow.com/profile/Frederick-S-Ritter/#reviews" rel="noopener noreferrer">View More Reviews</a>
-        <br></br><br></br><img width="118px;" src="https://www.zillow.com/widgets/GetVersionedResource.htm?path=/static/logos/Zillowlogo_150x40.gif" />
+        <br></br><br></br><img width="118px;" src="https://www.zillow.com/widgets/GetVersionedResource.htm?path=/static/logos/Zillowlogo_150x40.gif" alt="powered by Zillow" />
       </div>
     )
   }
