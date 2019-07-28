@@ -19,7 +19,7 @@ export default () => (
         <img src="/images/envelope-square-solid.svg" alt="email icon provided by Font Awesome, https://fontawesome.com/license" />
         </div>
         <div className="flip-card-back-green">
-          <p>scottritteraz@gmail.com</p>
+          <p>ritterhomesaz@gmail.com</p>
         </div>
       </div>
     </div>

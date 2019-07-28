@@ -3,7 +3,7 @@ import './Bio.css';
 
 export default () => (
   <div className="Bio">
-    As an elementary school teacher for 23 years, I have learned the value of customizing a plan for each individual.
+    As an elementary school teacher for 25 years, I have learned the value of customizing a plan for each individual.
     The same holds true for my real estate clients. Every client is different and has different needs. From the beginning,
     we determine each client's goals. I am sure to always put my clients and their needs first.<br></br><br></br>
     Working with clients who are buying a home is very satisfying and fulfilling work. It is an honor to help a client

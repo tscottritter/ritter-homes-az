@@ -3,7 +3,7 @@ import './Analysis.css';
 
 export default () => (
   <div className="Analysis">
-    <form accept-charset="utf-8" action="https://formspree.io/scottritteraz@gmail.com" method="post">
+    <form accept-charset="utf-8" action="https://formspree.io/ritterhomesaz@gmail.com" method="post">
       <div className="form-group row">
         <div className="offset-sm-3 col-sm-6">
           <label for="full-name">Name</label>

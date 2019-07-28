@@ -12,7 +12,7 @@ export default () => (
     <div className="banner-text">
       <h5>
         602.571.0808<br></br>
-        scottritteraz@gmail.com
+        ritterhomesaz@gmail.com
       </h5>
     </div>
   </div>
