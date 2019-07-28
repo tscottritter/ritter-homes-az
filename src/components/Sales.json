@@ -1,0 +1,44 @@
+{
+    "sales": [
+        {
+            "url": "https://www.zillow.com/homedetails/1159-E-Lowell-Ave-Gilbert-AZ-85295/62734912_zpid/",
+            "address1": "1159 E Lowell Ave",
+            "address2": "Gilbert, AZ 85295",
+            "represented": "Buyer",
+            "dateSold": "7/18/2019",
+            "price": "$292,000"
+        },
+        {
+            "url": "https://www.zillow.com/homedetails/8544-Naranja-Ave-Mesa-AZ-85209/2084016943_zpid/",
+            "address1": "8544 Naranja Ave",
+            "address2": "Mesa, AZ 85209",
+            "represented": "Buyer",
+            "dateSold": "6/11/2019",
+            "price": "$403,000"
+        },
+        {
+            "url": "https://www.zillow.com/homedetails/7533-E-Kilarea-Ave-Mesa-AZ-85209/8273945_zpid/",
+            "address1": "7533 E Kilarea Ave",
+            "address2": "Mesa, AZ 85209",
+            "represented": "Seller",
+            "dateSold": "5/15/2019",
+            "price": "$407,000"
+        },
+        {
+            "url": "https://www.zillow.com/homedetails/11975-W-Duane-Ln-Peoria-AZ-85383/81952191_zpid/",
+            "address1": "11975 W Duane Ln",
+            "address2": "Peoria, AZ 85383",
+            "represented": "Buyer",
+            "dateSold": "4/29/2019",
+            "price": "$283,000"
+        },
+        {
+            "url": "https://www.zillow.com/homedetails/7440-E-Kiowa-Ave-Mesa-AZ-85209/8273951_zpid/",
+            "address1": "7440 E Kiowa Ave",
+            "address2": "Mesa, AZ 85209",
+            "represented": "Seller",
+            "dateSold": "4/15/2019",
+            "price": "$362,000"
+        }
+    ]
+}

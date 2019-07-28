@@ -28,7 +28,7 @@ export default () => (
                 </li>
             </ul>
             <form className="form-inline my-2 my-lg-0">
-                <NavLink className="btn btn-primary my-2 my-sm-0" to="/analysis">Free Market Analysis</NavLink>
+                <NavLink className="btn btn-success my-2 my-sm-0" to="/analysis">Free Market Analysis</NavLink>
             </form>
         </div>
     </nav>

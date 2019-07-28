@@ -8,13 +8,13 @@
 
 .headshot {
     height: 190px;
-    margin: 5px;
+    margin-top: 10px;
     float: left;
 }
 
 .logo {
-    height: 190px;
-    margin: 5px;
+    height: 120px;
+    margin: 30px;
     float: right;
 }
 
@@ -35,7 +35,7 @@ h3 {
 .banner-text {
     text-align: right;
     float: right;
-    margin-right: 90px;
+    margin-right: 100px;
 }
 
 h5 {
