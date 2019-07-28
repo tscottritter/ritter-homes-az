@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import SalesList from './Sales.json';
+import './Sales.css';
 
 export default class Sales extends Component {
   render() {
@@ -18,7 +19,7 @@ export default class Sales extends Component {
 
     return (
       <div className="Sales">
-        <table class="table">
+        <table className="table">
           <thead>
             <tr>
               <th scope="col">Property Address</th>

@@ -3,10 +3,10 @@ import './Contact.css';
 
 export default () => (
   <div className="Contact">
-    <div className="flip-card" style={{ paddingTop: 15+"px" }}>
+    <div className="flip-card" id="zillowWrapper">
       <div className="flip-card-inner">
         <div className="flip-card-front">
-        <img src="/images/Zillow.png" alt="Zillow logo from http://zillow.mediaroom.com/logos" style={{ height: 220+"px", width: 220+"px", borderRadius: 25+"px"}} />
+        <img src="/images/Zillow.png" alt="Zillow logo from http://zillow.mediaroom.com/logos" id="zillow" />
         </div>
         <div className="flip-card-back-blue" style={{ margin: 0 }}>
           <a href="https://www.zillow.com/profile/Frederick-S-Ritter/" target="_blank" rel="noopener noreferrer">View my profile</a>

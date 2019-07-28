@@ -35,7 +35,7 @@ class Reviews extends Component {
     ))
 
     return (
-      <div>
+      <div className="Reviews">
         <div className="card-deck">
             { reviewsList || "Loading reviews..." }
         </div>

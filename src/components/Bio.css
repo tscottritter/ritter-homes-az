@@ -1,3 +1,15 @@
 .Bio {
     text-align: left;
 }
+
+@media only screen and (max-width: 1010px) {
+    .Bio {
+        margin: 20px;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    .Bio {
+        font-size: 0.75em;
+    }
+}

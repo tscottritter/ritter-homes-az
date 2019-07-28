@@ -3,3 +3,25 @@
     max-width: 47%;
     margin-bottom: 30px;
 }
+
+@media only screen and (max-width: 1010px) {
+    .Reviews {
+        margin: 20px;
+    }
+
+    .card-deck .card {
+        min-width: 42%;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .Reviews {
+        font-size: 0.75em;
+    }
+}
+
+@media only screen and (max-width: 622px) {
+    .card-deck .card {
+        min-width: 95%;
+    }
+}
