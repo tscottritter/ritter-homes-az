@@ -23,7 +23,11 @@ export default () => (
         </div>
       </div>
       <input type="hidden" name="_subject" id="email-subject" value="Market Analysis Form Submission"></input>
-      <button type="submit" class="btn btn-primary">Submit</button>
+      <div class="form-group row">
+        <div className="offset-lg-3 col-lg-6 clearfix">
+          <button type="submit" class="btn btn-primary">Submit</button>
+        </div>
+      </div>
     </form>
   </div>
 );

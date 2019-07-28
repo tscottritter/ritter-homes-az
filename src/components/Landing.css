@@ -1,10 +1,12 @@
 .Landing img {
     width: 100%;
+    margin-bottom: 25px;
 }
 
 .Landing h1 {
     position: absolute;
     right: calc(50% - 200px);
+    margin-top: 30px;
 }
 
 .row img {
@@ -14,4 +16,34 @@
 
 .landing-text {
     text-align: left;
+}
+
+@media only screen and (max-width: 1200px) {
+    .Landing h1 {
+        font-size: 2em;
+        right: calc(50% - 160px);
+    }
+}
+
+@media only screen and (max-width: 1010px) {
+    .Landing .row {
+        margin: 0 5px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .Landing h1 {
+        font-size: 1.25em;
+        right: calc(50% - 101px);
+    }
+
+    .Landing .row img {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 560px) {
+    .Landing h1 {
+        font-size: 1.25em;
+    }
 }

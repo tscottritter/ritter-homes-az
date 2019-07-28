@@ -1,5 +1,5 @@
 .Analysis {
-    margin-bottom: 80px;
+    margin-bottom: 63px;
 }
 
 .Analysis form {
@@ -9,4 +9,9 @@
 
 .form-group {
     text-align: left;
+}
+
+.Analysis button {
+    margin-top: 20px;
+    float: left;
 }

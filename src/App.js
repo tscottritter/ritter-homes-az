@@ -5,8 +5,6 @@ import {
   Redirect
 } from 'react-router-dom';
 
-import './App.css';
-
 import Header from './components/Header.js';
 import Nav from './components/Nav';
 import Landing from './components/Landing.js';
