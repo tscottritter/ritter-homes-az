@@ -20,7 +20,7 @@
 
 .banner-headlines {
     display: inline-block;
-    margin-left: 80px;
+    margin-left: 6%;
 }
 
 .Header h1 {
@@ -35,7 +35,7 @@
 .banner-text {
     text-align: right;
     float: right;
-    margin-right: 100px;
+    margin-right: 10%;
 }
 
 .Header h5 {
