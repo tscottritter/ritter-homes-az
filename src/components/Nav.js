@@ -22,8 +22,7 @@ export default () => (
                     <NavLink className="nav-link" to="/reviews">Testimonials</NavLink>
                 </li>
                 <li className="nav-item">
-                    <NavLink className="nav-link" to="/market" id="internalMarket">Market Watch</NavLink>
-                    <a href="/images/May.pdf" target="_blank"  className="nav-link" id="externalMarket">Market Watch</a>
+                    <NavLink className="nav-link" to="/market">Market Watch</NavLink>
                 </li>
                 <li className="nav-item">
                     <NavLink className="nav-link" to="/contact">Contact Me</NavLink>

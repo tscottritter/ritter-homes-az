@@ -1,6 +1,22 @@
 {
     "sales": [
         {
+            "url": "https://www.zillow.com/homedetails/10136-E-Southern-Ave-UNIT-2039-Mesa-AZ-85209/72292178_zpid/",
+            "address1": "10136 E Southern Ave, Unit 2039",
+            "address2": "Mesa, AZ 85209",
+            "represented": "Seller",
+            "dateSold": "8/22/2019",
+            "price": "$187,000"
+        },
+        {
+            "url": "https://www.zillow.com/homedetails/7313-E-Mallory-Cir-Mesa-AZ-85207/55269944_zpid/",
+            "address1": "7313 E Mallory Cir",
+            "address2": "Mesa, AZ 85207",
+            "represented": "Buyer",
+            "dateSold": "8/15/2019",
+            "price": "$385,000"
+        },
+        {
             "url": "https://www.zillow.com/homedetails/1159-E-Lowell-Ave-Gilbert-AZ-85295/62734912_zpid/",
             "address1": "1159 E Lowell Ave",
             "address2": "Gilbert, AZ 85295",
@@ -23,22 +39,6 @@
             "represented": "Seller",
             "dateSold": "5/15/2019",
             "price": "$407,000"
-        },
-        {
-            "url": "https://www.zillow.com/homedetails/11975-W-Duane-Ln-Peoria-AZ-85383/81952191_zpid/",
-            "address1": "11975 W Duane Ln",
-            "address2": "Peoria, AZ 85383",
-            "represented": "Buyer",
-            "dateSold": "4/29/2019",
-            "price": "$283,000"
-        },
-        {
-            "url": "https://www.zillow.com/homedetails/7440-E-Kiowa-Ave-Mesa-AZ-85209/8273951_zpid/",
-            "address1": "7440 E Kiowa Ave",
-            "address2": "Mesa, AZ 85209",
-            "represented": "Seller",
-            "dateSold": "4/15/2019",
-            "price": "$362,000"
         }
     ]
 }

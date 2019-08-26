@@ -36,6 +36,10 @@ class Reviews extends Component {
 
     return (
       <div className="Reviews">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/lk3MgNG2tsk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="video testimonial 1"></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/cZB03TNBTmw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="video testimonial 2"></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/2EEsNaBq7Aw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="video testimonial 3"></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/TbNirDaWeIU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="video testimonial 4"></iframe>
         <div className="card-deck">
             { reviewsList || "Loading reviews..." }
         </div>

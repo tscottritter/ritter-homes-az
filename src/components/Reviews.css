@@ -4,6 +4,12 @@
     margin-bottom: 30px;
 }
 
+.Reviews iframe {
+    max-width: 560px;
+    width: 100%;
+    margin: 10px auto;
+}
+
 @media only screen and (max-width: 1010px) {
     .Reviews {
         margin: 20px;
