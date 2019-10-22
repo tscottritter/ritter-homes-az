@@ -1,6 +1,14 @@
 {
     "sales": [
         {
+            "url": "https://www.zillow.com/homedetails/10110-E-Carmel-Ave-Mesa-AZ-85208/52429327_zpid/",
+            "address1": "10110 E Carmel Ave",
+            "address2": "Mesa, AZ 85208",
+            "represented": "Buyer",
+            "dateSold": "10/18/2019",
+            "price": "$269,900"
+        },
+        {
             "url": "https://www.zillow.com/homedetails/10136-E-Southern-Ave-UNIT-2039-Mesa-AZ-85209/72292178_zpid/",
             "address1": "10136 E Southern Ave, Unit 2039",
             "address2": "Mesa, AZ 85209",
@@ -31,14 +39,6 @@
             "represented": "Buyer",
             "dateSold": "6/11/2019",
             "price": "$403,000"
-        },
-        {
-            "url": "https://www.zillow.com/homedetails/7533-E-Kilarea-Ave-Mesa-AZ-85209/8273945_zpid/",
-            "address1": "7533 E Kilarea Ave",
-            "address2": "Mesa, AZ 85209",
-            "represented": "Seller",
-            "dateSold": "5/15/2019",
-            "price": "$407,000"
         }
     ]
 }

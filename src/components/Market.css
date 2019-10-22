@@ -1,6 +1,16 @@
-.Market img {
+.Market {
     max-width: 95%;
+    margin: 0 auto;
+}
+
+.Market img {
+    width: 100%;
+    height: auto;
     margin: 0 auto 15px;
+}
+
+.Market p {
+    text-align: left;
 }
 
 .Market embed {
@@ -9,13 +19,16 @@
     margin: 0 auto 15px;
 }
 
+.Market embed + a {
+    display: none;
+}
+
 @media only screen and (max-width: 1000px) {
     .Market embed {
         display: none;
     }
 
-    .Market a {
+    .Market embed + a {
         display: block;
-        margin: 10px auto;
     }
 }
