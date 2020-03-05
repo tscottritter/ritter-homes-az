@@ -15,7 +15,9 @@
 .logo {
     height: 120px;
     margin: 30px;
+    margin-left: 5px;
     float: right;
+    background-color:rgba(255, 255, 255, .75);
 }
 
 .banner-headlines {
@@ -42,12 +44,12 @@
     margin-top: 30px;
 }
 
-@media only screen and (max-width: 1330px) {
+@media only screen and (max-width: 1530px) {
     .banner-text {
         text-align: left;
         float: none;
         margin-right: 0;
-        margin-left: 255px;
+        margin-left: 290px;
     }
 
     .Header h5 {
@@ -68,9 +70,13 @@
     .Header h5 {
         font-size: 0.75em;
     }
+
+    .banner-text {
+        margin-left: 245px;
+    }
 }
 
-@media only screen and (max-width: 991px) {
+@media only screen and (max-width: 1045px) {
     .banner-headlines {
         margin-left: 15px;
     }
@@ -80,7 +86,21 @@
     }
 }
 
-@media only screen and (max-width: 812px) {
+@media only screen and (max-width: 996px) {
+    .Header h1 {
+        font-size: 1.6em;
+    }
+
+    .Header h3 {
+        font-size: 1em;
+    }
+
+    .Header h5 {
+        font-size: 0.6em;
+    }
+}
+
+@media only screen and (max-width: 908px) {
     .logo {
         display: none;
     }
@@ -117,7 +137,14 @@
     }
 }
 
-@media only screen and (max-width: 560px) {
+@media only screen and (max-width: 675px) {
+    .logo {
+        display: block;
+        height: 60px;
+    }
+}
+
+@media only screen and (max-width: 614px) {
     .Header {
         height: 100px;
     }
