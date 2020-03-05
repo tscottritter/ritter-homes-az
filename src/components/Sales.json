@@ -1,44 +1,44 @@
 {
     "sales": [
         {
+            "url": "https://www.zillow.com/homedetails/5233-E-Duncan-St-Mesa-AZ-85205/7662604_zpid/",
+            "address1": "5233 E Duncan St",
+            "address2": "Mesa, AZ 85205",
+            "represented": "Buyer",
+            "dateSold": "2/27/2020",
+            "price": "$189,000"
+        },
+        {
+            "url": "https://www.zillow.com/homedetails/145-N-74th-St-UNIT-240-Mesa-AZ-85207/8068812_zpid/",
+            "address1": "145 N 74th St, Unit 240",
+            "address2": "Mesa, AZ 85207",
+            "represented": "Buyer",
+            "dateSold": "1/21/2020",
+            "price": "$142,000"
+        },
+        {
+            "url": "https://www.zillow.com/homedetails/2830-N-Rowen-Cir-Mesa-AZ-85207/89135372_zpid/",
+            "address1": "2830 N Rowen Cir",
+            "address2": "Mesa, AZ 85207",
+            "represented": "Buyer",
+            "dateSold": "11/19/2019",
+            "price": "$410,000"
+        },
+        {
+            "url": "https://www.zillow.com/homedetails/233-N-202nd-Ave-Buckeye-AZ-85326/95109518_zpid/",
+            "address1": "233 N 202nd Ave",
+            "address2": "Buckeye, AZ 85326",
+            "represented": "Buyer",
+            "dateSold": "10/25/2019",
+            "price": "$278,000"
+        },
+        {
             "url": "https://www.zillow.com/homedetails/10110-E-Carmel-Ave-Mesa-AZ-85208/52429327_zpid/",
             "address1": "10110 E Carmel Ave",
             "address2": "Mesa, AZ 85208",
             "represented": "Buyer",
             "dateSold": "10/18/2019",
             "price": "$269,900"
-        },
-        {
-            "url": "https://www.zillow.com/homedetails/10136-E-Southern-Ave-UNIT-2039-Mesa-AZ-85209/72292178_zpid/",
-            "address1": "10136 E Southern Ave, Unit 2039",
-            "address2": "Mesa, AZ 85209",
-            "represented": "Seller",
-            "dateSold": "8/22/2019",
-            "price": "$187,000"
-        },
-        {
-            "url": "https://www.zillow.com/homedetails/7313-E-Mallory-Cir-Mesa-AZ-85207/55269944_zpid/",
-            "address1": "7313 E Mallory Cir",
-            "address2": "Mesa, AZ 85207",
-            "represented": "Buyer",
-            "dateSold": "8/15/2019",
-            "price": "$385,000"
-        },
-        {
-            "url": "https://www.zillow.com/homedetails/1159-E-Lowell-Ave-Gilbert-AZ-85295/62734912_zpid/",
-            "address1": "1159 E Lowell Ave",
-            "address2": "Gilbert, AZ 85295",
-            "represented": "Buyer",
-            "dateSold": "7/18/2019",
-            "price": "$292,000"
-        },
-        {
-            "url": "https://www.zillow.com/homedetails/8544-Naranja-Ave-Mesa-AZ-85209/2084016943_zpid/",
-            "address1": "8544 Naranja Ave",
-            "address2": "Mesa, AZ 85209",
-            "represented": "Buyer",
-            "dateSold": "6/11/2019",
-            "price": "$403,000"
         }
     ]
 }
