@@ -36,16 +36,7 @@ class Reviews extends Component {
 
     return (
       <div className="Reviews">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/UkswXZBBuLg" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen title="video testimonial 10"></iframe>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/EDYHC7TsW-I" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen title="video testimonial 9"></iframe>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/vN0qMjCaiHQ" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen title="video testimonial 8"></iframe>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/FnHWioopd0Y" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen title="video testimonial 7"></iframe>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/KYaCz4I1hZo" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen title="video testimonial 6"></iframe>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/AtEM2QreIyQ" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen title="video testimonial 5"></iframe>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/TbNirDaWeIU" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen title="video testimonial 4"></iframe>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/2EEsNaBq7Aw" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen title="video testimonial 3"></iframe>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/cZB03TNBTmw" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen title="video testimonial 2"></iframe>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/lk3MgNG2tsk" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen title="video testimonial 1"></iframe>
+        <iframe title="Testimonial Tuesday playlist" width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=UUnNMG8EYVlKTXZgYWmroiRg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <div className="card-deck">
             { reviewsList || "Loading reviews..." }
         </div>
