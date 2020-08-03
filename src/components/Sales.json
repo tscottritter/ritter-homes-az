@@ -1,44 +1,44 @@
 {
     "sales": [
         {
-            "url": "https://www.zillow.com/homedetails/5233-E-Duncan-St-Mesa-AZ-85205/7662604_zpid/",
-            "address1": "5233 E Duncan St",
-            "address2": "Mesa, AZ 85205",
+            "url": "https://www.zillow.com/homedetails/11358-E-Ramblewood-Ave-Mesa-AZ-85212/53467675_zpid/",
+            "address1": "11358 E Ramblewood Ave",
+            "address2": "Mesa, AZ 85212",
             "represented": "Buyer",
-            "dateSold": "2/27/2020",
-            "price": "$189,000"
+            "dateSold": "7/10/2020",
+            "price": "$400,000"
         },
         {
-            "url": "https://www.zillow.com/homedetails/145-N-74th-St-UNIT-240-Mesa-AZ-85207/8068812_zpid/",
-            "address1": "145 N 74th St, Unit 240",
+            "url": "https://www.zillow.com/homedetails/1825-W-Decatur-St-Mesa-AZ-85201/7608583_zpid/",
+            "address1": "1825 W Decatur St",
+            "address2": "Mesa, AZ 85201",
+            "represented": "Seller",
+            "dateSold": "7/8/2020",
+            "price": "$290,128"
+        },
+        {
+            "url": "https://www.zillow.com/homedetails/8862-E-Posada-Ave-Mesa-AZ-85212/60990625_zpid/",
+            "address1": "8862 E Posada Ave",
+            "address2": "Mesa, AZ 85212",
+            "represented": "Buyer",
+            "dateSold": "6/4/2020",
+            "price": "$275,000"
+        },
+        {
+            "url": "https://www.zillow.com/homedetails/9361-E-Laurel-Cir-Mesa-AZ-85207/52429079_zpid/",
+            "address1": "9361 E Laurel Cir",
             "address2": "Mesa, AZ 85207",
             "represented": "Buyer",
-            "dateSold": "1/21/2020",
-            "price": "$142,000"
+            "dateSold": "6/4/2020",
+            "price": "$400,000"
         },
         {
-            "url": "https://www.zillow.com/homedetails/2830-N-Rowen-Cir-Mesa-AZ-85207/89135372_zpid/",
-            "address1": "2830 N Rowen Cir",
+            "url": "https://www.zillow.com/homedetails/11524-E-Covina-St-Mesa-AZ-85207/8084147_zpid/",
+            "address1": "11524 E Covina St",
             "address2": "Mesa, AZ 85207",
-            "represented": "Buyer",
-            "dateSold": "11/19/2019",
-            "price": "$410,000"
-        },
-        {
-            "url": "https://www.zillow.com/homedetails/233-N-202nd-Ave-Buckeye-AZ-85326/95109518_zpid/",
-            "address1": "233 N 202nd Ave",
-            "address2": "Buckeye, AZ 85326",
-            "represented": "Buyer",
-            "dateSold": "10/25/2019",
-            "price": "$278,000"
-        },
-        {
-            "url": "https://www.zillow.com/homedetails/10110-E-Carmel-Ave-Mesa-AZ-85208/52429327_zpid/",
-            "address1": "10110 E Carmel Ave",
-            "address2": "Mesa, AZ 85208",
-            "represented": "Buyer",
-            "dateSold": "10/18/2019",
-            "price": "$269,900"
+            "represented": "Seller",
+            "dateSold": "6/4/2020",
+            "price": "$247,500"
         }
     ]
 }
