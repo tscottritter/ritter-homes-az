@@ -3,7 +3,7 @@ import './Bio.css';
 
 export default () => (
   <div className="Bio">
-    As an elementary school teacher for 25 years, I have learned the value of customizing a plan for each individual.
+    As an elementary school teacher for over 25 years, I have learned the value of customizing a plan for each individual.
     The same holds true for my real estate clients. Every client is different and has different needs. From the beginning,
     we determine each client's goals. I am sure to always put my clients and their needs first.<br></br><br></br>
     Working with clients who are buying a home is very satisfying and fulfilling work. It is an honor to help a client
@@ -18,7 +18,7 @@ export default () => (
     so that we present a home ready to sell at the right price.<br></br><br></br>
     Communication and response time are two of my biggest strengths. I know I love a timely response, so I strive to get back to
     clients as soon as possible, even if just to tell them I received their question and I am working on finding an answer.<br></br><br></br>
-    Working as a professional Realtor for the last three years has been very fulfilling. Buying or selling property can be a
+    Working as a professional Realtor is very fulfilling. Buying or selling property can be a
     stressful experience and I do all I can to communicate throughout the process to alleviate as much strain on my clients
     as possible. It is extremely gratifying to close a transaction knowing I have done all I can for people who started as clients
     and now have become friends.<br></br><br></br>
