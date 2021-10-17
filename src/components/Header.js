@@ -4,7 +4,7 @@ import './Header.css';
 export default () => (
   <div className="Header clearfix">
     <img className="headshot" src="/images/headshot.png" alt="" />
-    <img className="logo" src="/images/fleck_logo.png" alt=""/>
+    <img className="logo" src="/images/JPAR_logo.png" alt=""/>
     <div className="banner-headlines">
       <h1>Frederick Scott Ritter, Realtor&reg;</h1>
       <h3>Your trusted real estate expert</h3>
