@@ -1,44 +1,44 @@
 {
     "sales": [
         {
-            "url": "https://www.zillow.com/homedetails/11358-E-Ramblewood-Ave-Mesa-AZ-85212/53467675_zpid/",
-            "address1": "11358 E Ramblewood Ave",
+            "url": "https://www.zillow.com/homedetails/14428-S-24th-Pl-Phoenix-AZ-85048/64638813_zpid/",
+            "address1": "14428 S 24th Pl",
+            "address2": "Phoenix, AZ 85048",
+            "represented": "Buyer",
+            "dateSold": "9/17/2021",
+            "price": "$810,000"
+        },
+        {
+            "url": "https://www.zillow.com/homedetails/8508-E-Kiowa-Ave-Mesa-AZ-85209/54895959_zpid/",
+            "address1": "8508 E Kiowa Ave",
+            "address2": "Mesa, AZ 85209",
+            "represented": "Seller",
+            "dateSold": "9/14/2021",
+            "price": "$360,000"
+        },
+        {
+            "url": "https://www.zillow.com/homedetails/19023-E-Ryan-Rd-Queen-Creek-AZ-85142/71600757_zpid/",
+            "address1": "19023 E Ryan Rd",
+            "address2": "Queen Creek, AZ 85142",
+            "represented": "Seller",
+            "dateSold": "8/24/2021",
+            "price": "$660,000"
+        },
+        {
+            "url": "https://www.zillow.com/homedetails/9422-E-Pampa-Ave-Mesa-AZ-85212/19466355_zpid/",
+            "address1": "9422 E Pampa Ave",
             "address2": "Mesa, AZ 85212",
             "represented": "Buyer",
-            "dateSold": "7/10/2020",
-            "price": "$400,000"
+            "dateSold": "8/19/2021",
+            "price": "$405,000"
         },
         {
-            "url": "https://www.zillow.com/homedetails/1825-W-Decatur-St-Mesa-AZ-85201/7608583_zpid/",
-            "address1": "1825 W Decatur St",
-            "address2": "Mesa, AZ 85201",
-            "represented": "Seller",
-            "dateSold": "7/8/2020",
-            "price": "$290,128"
-        },
-        {
-            "url": "https://www.zillow.com/homedetails/8862-E-Posada-Ave-Mesa-AZ-85212/60990625_zpid/",
-            "address1": "8862 E Posada Ave",
-            "address2": "Mesa, AZ 85212",
-            "represented": "Buyer",
-            "dateSold": "6/4/2020",
-            "price": "$275,000"
-        },
-        {
-            "url": "https://www.zillow.com/homedetails/9361-E-Laurel-Cir-Mesa-AZ-85207/52429079_zpid/",
-            "address1": "9361 E Laurel Cir",
-            "address2": "Mesa, AZ 85207",
-            "represented": "Buyer",
-            "dateSold": "6/4/2020",
-            "price": "$400,000"
-        },
-        {
-            "url": "https://www.zillow.com/homedetails/11524-E-Covina-St-Mesa-AZ-85207/8084147_zpid/",
-            "address1": "11524 E Covina St",
+            "url": "hhttps://www.zillow.com/homedetails/9747-E-Greenway-St-Mesa-AZ-85207/50192183_zpid/",
+            "address1": "9747 E Greenway St",
             "address2": "Mesa, AZ 85207",
             "represented": "Seller",
-            "dateSold": "6/4/2020",
-            "price": "$247,500"
+            "dateSold": "6/25/2021",
+            "price": "$596,000"
         }
     ]
 }
