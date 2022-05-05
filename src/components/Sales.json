@@ -1,44 +1,44 @@
 {
     "sales": [
         {
-            "url": "https://www.zillow.com/homedetails/14428-S-24th-Pl-Phoenix-AZ-85048/64638813_zpid/",
-            "address1": "14428 S 24th Pl",
-            "address2": "Phoenix, AZ 85048",
+            "url": "https://www.zillow.com/homedetails/2424-N-Brimhall-Mesa-AZ-85203/7613952_zpid/",
+            "address1": "2424 N Brimhall",
+            "address2": "Mesa, AZ 85203",
             "represented": "Buyer",
-            "dateSold": "9/17/2021",
-            "price": "$810,000"
+            "dateSold": "2/25/2022",
+            "price": "$800,000"
         },
         {
-            "url": "https://www.zillow.com/homedetails/8508-E-Kiowa-Ave-Mesa-AZ-85209/54895959_zpid/",
-            "address1": "8508 E Kiowa Ave",
+            "url": "https://www.zillow.com/homedetails/10019-E-Nopal-Ave-Mesa-AZ-85209/284860797_zpid/",
+            "address1": "10019 E Nopal Ave",
             "address2": "Mesa, AZ 85209",
-            "represented": "Seller",
-            "dateSold": "9/14/2021",
-            "price": "$360,000"
-        },
-        {
-            "url": "https://www.zillow.com/homedetails/19023-E-Ryan-Rd-Queen-Creek-AZ-85142/71600757_zpid/",
-            "address1": "19023 E Ryan Rd",
-            "address2": "Queen Creek, AZ 85142",
-            "represented": "Seller",
-            "dateSold": "8/24/2021",
-            "price": "$660,000"
-        },
-        {
-            "url": "https://www.zillow.com/homedetails/9422-E-Pampa-Ave-Mesa-AZ-85212/19466355_zpid/",
-            "address1": "9422 E Pampa Ave",
-            "address2": "Mesa, AZ 85212",
             "represented": "Buyer",
-            "dateSold": "8/19/2021",
-            "price": "$405,000"
+            "dateSold": "1/14/2022",
+            "price": "$560,000"
         },
         {
-            "url": "hhttps://www.zillow.com/homedetails/9747-E-Greenway-St-Mesa-AZ-85207/50192183_zpid/",
-            "address1": "9747 E Greenway St",
+            "url": "https://www.zillow.com/homedetails/2731-E-Mallory-St-Mesa-AZ-85213/7656143_zpid/",
+            "address1": "2731 E Mallory St",
+            "address2": "Mesa, AZ 85213",
+            "represented": "Seller",
+            "dateSold": "1/4/2022",
+            "price": "$625,000"
+        },
+        {
+            "url": "https://www.zillow.com/homedetails/6942-E-Teton-Cir-Mesa-AZ-85207/50191487_zpid/",
+            "address1": "6942 E Teton Cir",
             "address2": "Mesa, AZ 85207",
             "represented": "Seller",
-            "dateSold": "6/25/2021",
-            "price": "$596,000"
+            "dateSold": "12/9/2021",
+            "price": "$880,000"
+        },
+        {
+            "url": "https://www.zillow.com/homedetails/36804-N-Maverick-Rd-San-Tan-Valley-AZ-85140/2071206184_zpid/",
+            "address1": "36804 N Maverick Rd",
+            "address2": "San Tan Valley, AZ 85140",
+            "represented": "Buyer",
+            "dateSold": "11/16/2021",
+            "price": "$360,000"
         }
     ]
 }
