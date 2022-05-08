@@ -3,10 +3,6 @@
     margin-bottom: 25px;
 }
 
-.Landing ul {
-    text-align: left;
-}
-
 .Landing h1 {
     position: absolute;
     right: calc(50% - 200px);
@@ -16,17 +12,6 @@
 .row img {
     height: 200px;
     width: auto;
-}
-
-.open-house img {
-    width: 100%;
-    height: auto;
-}
-
-.open-house h1 {
-    margin: 5px auto;
-    position: initial;
-    z-index: 99999;
 }
 
 .landing-text {

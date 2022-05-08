@@ -3,24 +3,6 @@ import './Landing.css';
 
 export default () => (
   <div className="Landing">
-    <div className='row'>
-      <div className='col-md-4'>
-        <img src="/images/open-house.jpeg" alt="open house sign" />
-        <h3>
-          <a href='https://www.zillow.com/homedetails/1523-N-Balboa-Mesa-AZ-85205/157726118_zpid/' target="_blank" rel="noopener noreferrer">
-            1523 N Balboa</a> in Mesa!
-        </h3>
-        <ul>
-          <li>Friday, May 6th from 3-6 PM</li>
-          <li>Saturday, May 7th from 10 AM-3 PM</li>
-          <li>Sunday, May 8th from 9 AM-noon</li>
-        </ul>
-      </div>
-      <div className='col-md-8 open-house'>
-        <h1>$490,000</h1>
-        <img src="/images/balboa.webp" alt="front of house for sale" />
-      </div>
-    </div>
     <h1>Results that move you!</h1>
     <img src='/images/landing.jpg' alt="asphalt road leading to mountains, by Ganapathy Kumar from Unsplash" />
     <div className="row">
