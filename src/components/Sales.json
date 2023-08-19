@@ -1,44 +1,44 @@
 {
     "sales": [
         {
-            "url": "https://www.zillow.com/homedetails/2424-N-Brimhall-Mesa-AZ-85203/7613952_zpid/",
-            "address1": "2424 N Brimhall",
-            "address2": "Mesa, AZ 85203",
-            "represented": "Buyer",
-            "dateSold": "2/25/2022",
-            "price": "$800,000"
-        },
-        {
-            "url": "https://www.zillow.com/homedetails/10019-E-Nopal-Ave-Mesa-AZ-85209/284860797_zpid/",
-            "address1": "10019 E Nopal Ave",
+            "url": "https://www.zillow.com/homedetails/7506-E-Kiowa-Ave-Mesa-AZ-85209/8273948_zpid/",
+            "address1": "7506 E Kiowa Ave",
             "address2": "Mesa, AZ 85209",
-            "represented": "Buyer",
-            "dateSold": "1/14/2022",
-            "price": "$560,000"
+            "dateSold": "5/25/2023",
+            "price": "$568,300",
+            "represented": "Seller"
         },
         {
-            "url": "https://www.zillow.com/homedetails/2731-E-Mallory-St-Mesa-AZ-85213/7656143_zpid/",
-            "address1": "2731 E Mallory St",
-            "address2": "Mesa, AZ 85213",
-            "represented": "Seller",
-            "dateSold": "1/4/2022",
-            "price": "$625,000"
+            "url": "https://www.zillow.com/homedetails/2947-E-Michelle-Way-Gilbert-AZ-85234/8233032_zpid/",
+            "address1": "2947 E Michelle Way",
+            "address2": "Gilbert, AZ 85234",
+            "dateSold": "5/19/2023",
+            "price": "$435,000",
+            "represented": "Buyer"
         },
         {
-            "url": "https://www.zillow.com/homedetails/6942-E-Teton-Cir-Mesa-AZ-85207/50191487_zpid/",
-            "address1": "6942 E Teton Cir",
-            "address2": "Mesa, AZ 85207",
-            "represented": "Seller",
-            "dateSold": "12/9/2021",
-            "price": "$880,000"
+            "url": "https://www.zillow.com/homedetails/8145-S-Pioneer-Ct-Gold-Canyon-AZ-85118/71695513_zpid/",
+            "address1": "8145 S Pioneer Ct",
+            "address2": "Gold Canyon, AZ 85118",
+            "dateSold": "5/10/2023",
+            "price": "$420,000",
+            "represented": "Buyer"
         },
         {
-            "url": "https://www.zillow.com/homedetails/36804-N-Maverick-Rd-San-Tan-Valley-AZ-85140/2071206184_zpid/",
-            "address1": "36804 N Maverick Rd",
-            "address2": "San Tan Valley, AZ 85140",
-            "represented": "Buyer",
-            "dateSold": "11/16/2021",
-            "price": "$360,000"
+            "url": "https://www.zillow.com/homedetails/3937-N-Sapphire-Mesa-AZ-85215/7671121_zpid/",
+            "address1": "3937 N Sapphire",
+            "address2": "Mesa, AZ 85215",
+            "dateSold": "5/5/2023",
+            "price": "$655,000",
+            "represented": "Seller"
+        },
+        {
+            "url": "https://www.zillow.com/homedetails/7863-E-Pueblo-Ave-Mesa-AZ-85208/8078224_zpid/",
+            "address1": "7863 E Pueblo Ave",
+            "address2": "Mesa, AZ 85208",
+            "dateSold": "4/27/2023",
+            "price": "$296,000",
+            "represented": "Buyer"
         }
     ]
 }
