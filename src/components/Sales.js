@@ -34,7 +34,6 @@ export default class Sales extends Component {
         </table>
         <a className="btn btn-primary" href="https://www.zillow.com/profile/Frederick-S-Ritter/#pastSales" target="_blank" rel="noopener noreferrer">More on Zillow</a><br></br><br></br>
         <a className="btn btn-success" href="https://www.zillow.com/profile/Frederick-S-Ritter/#forSaleListings" target="_blank" rel="noopener noreferrer">See My Active Listings</a>
-        <br></br><br></br><img width="118px;" src="https://www.zillow.com/widgets/GetVersionedResource.htm?path=/static/logos/Zillowlogo_150x40.gif" alt="powered by Zillow" />
       </div>
     )
   }
