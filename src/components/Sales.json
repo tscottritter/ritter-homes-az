@@ -1,6 +1,14 @@
 {
     "sales": [
         {
+            "url": "https://www.zillow.com/homedetails/11946-E-Red-Butte-Gold-Canyon-AZ-85118/299647032_zpid/",
+            "address1": "11946 E Red Butte",
+            "address2": "Gold Canyon, AZ 85118",
+            "dateSold": "9/12/2023",
+            "price": "$472,000",
+            "represented": "Seller"
+        },
+        {
             "url": "https://www.zillow.com/homedetails/7506-E-Kiowa-Ave-Mesa-AZ-85209/8273948_zpid/",
             "address1": "7506 E Kiowa Ave",
             "address2": "Mesa, AZ 85209",
@@ -31,14 +39,6 @@
             "dateSold": "5/5/2023",
             "price": "$655,000",
             "represented": "Seller"
-        },
-        {
-            "url": "https://www.zillow.com/homedetails/7863-E-Pueblo-Ave-Mesa-AZ-85208/8078224_zpid/",
-            "address1": "7863 E Pueblo Ave",
-            "address2": "Mesa, AZ 85208",
-            "dateSold": "4/27/2023",
-            "price": "$296,000",
-            "represented": "Buyer"
         }
     ]
 }
