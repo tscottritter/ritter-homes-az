@@ -1,43 +1,43 @@
 {
     "sales": [
         {
-            "url": "https://www.zillow.com/homedetails/11946-E-Red-Butte-Gold-Canyon-AZ-85118/299647032_zpid/",
-            "address1": "11946 E Red Butte",
-            "address2": "Gold Canyon, AZ 85118",
-            "dateSold": "9/12/2023",
-            "price": "$472,000",
-            "represented": "Seller"
-        },
-        {
-            "url": "https://www.zillow.com/homedetails/7506-E-Kiowa-Ave-Mesa-AZ-85209/8273948_zpid/",
-            "address1": "7506 E Kiowa Ave",
-            "address2": "Mesa, AZ 85209",
-            "dateSold": "5/25/2023",
-            "price": "$568,300",
-            "represented": "Seller"
-        },
-        {
-            "url": "https://www.zillow.com/homedetails/2947-E-Michelle-Way-Gilbert-AZ-85234/8233032_zpid/",
-            "address1": "2947 E Michelle Way",
-            "address2": "Gilbert, AZ 85234",
-            "dateSold": "5/19/2023",
-            "price": "$435,000",
+            "url": "https://www.zillow.com/homedetails/3231-W-Sable-Ave-Apache-Junction-AZ-85120/440926100_zpid/",
+            "address1": "3231 W Sable Ave",
+            "address2": "Apache Junction, AZ 85120",
+            "dateSold": "1/14/2025",
+            "price": "$450,000",
             "represented": "Buyer"
         },
         {
-            "url": "https://www.zillow.com/homedetails/8145-S-Pioneer-Ct-Gold-Canyon-AZ-85118/71695513_zpid/",
-            "address1": "8145 S Pioneer Ct",
-            "address2": "Gold Canyon, AZ 85118",
-            "dateSold": "5/10/2023",
-            "price": "$420,000",
-            "represented": "Buyer"
-        },
-        {
-            "url": "https://www.zillow.com/homedetails/3937-N-Sapphire-Mesa-AZ-85215/7671121_zpid/",
-            "address1": "3937 N Sapphire",
+            "url": "https://www.zillow.com/homedetails/5816-E-Montara-Pl-Mesa-AZ-85215/7660577_zpid/",
+            "address1": "5816 E Montara Pl",
             "address2": "Mesa, AZ 85215",
-            "dateSold": "5/5/2023",
-            "price": "$655,000",
+            "dateSold": "12/30/2024",
+            "price": "$668,000",
+            "represented": "Buyer"
+        },
+        {
+            "url": "https://www.zillow.com/homedetails/2014-E-Grazing-Meadow-Ln-San-Tan-Valley-AZ-85140/402294782_zpid/",
+            "address1": "2014 E Grazing Meadow Ln",
+            "address2": "San Tan Valley, AZ 85140",
+            "dateSold": "10/29/2024",
+            "price": "$401,990",
+            "represented": "Buyer"
+        },
+        {
+            "url": "https://www.zillow.com/homedetails/1331-W-Baseline-Rd-UNIT-249-Mesa-AZ-85202/8254431_zpid/",
+            "address1": "1331 W Baseline Rd UNIT 249",
+            "address2": "Mesa, AZ 85202",
+            "dateSold": "10/18/2024",
+            "price": "$315,000",
+            "represented": "Seller"
+        },
+        {
+            "url": "https://www.zillow.com/homedetails/5416-E-Alpine-Ave-Mesa-AZ-85206/7663719_zpid/",
+            "address1": "5416 E Alpine Ave",
+            "address2": "Mesa, AZ 85206",
+            "dateSold": "9/12/2024",
+            "price": "$290,000",
             "represented": "Seller"
         }
     ]
